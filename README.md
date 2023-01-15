@@ -2,7 +2,7 @@
 
 ## Install Fabric Loader
 
-To install Frabric Loader, follow this tutorial https://fabricmc.net/wiki/install
+To install Fabric Loader, follow this tutorial https://fabricmc.net/wiki/install
 
 ## install the mod
 
